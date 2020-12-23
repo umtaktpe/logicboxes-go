@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ilkbyte/logicboxes-go"
+	"github.com/umtaktpe/logicboxes-go"
 )
 
 func main() {
