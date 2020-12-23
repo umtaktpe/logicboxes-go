@@ -5,7 +5,7 @@ LogicBoxes package provides most of the LogicBoxes API functionality and compati
 ## Installation 
 
 ```
-go get github.com/ilkbyte/logicboxes-go
+go get github.com/umtaktpe/logicboxes-go
 ```
 
 ## Usage
@@ -126,7 +126,7 @@ client.DomainUnsuspend("domain-name.tld")
 ```go
 // Creating a customer
 data := map[string]interface{}{
-    "username":       "test",
+	"username":       "test",
 	"passwd":         "Fxejvcv5cv2zx*",
 	"name":           "test",
 	"company":        "test",
